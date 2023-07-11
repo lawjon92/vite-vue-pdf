@@ -1,4 +1,4 @@
-# dy-vite-vue-pdf
+# lwj-vite-vue-pdf
 The package contains a [Vue2 + vite](https://vuejs.org/) component to easily display PDF files in Vite.
 
 ### Note: This project depends on [duyansoft-pdfjs-dist](https://github.com/yumeiqiang/duyansoft-pdfjs-dist) which is currently quite a few versions behind pdfjs-dist 
@@ -12,7 +12,7 @@ The package contains a [Vue2 + vite](https://vuejs.org/) component to easily dis
 </template>
 
 <script>
-import pdf from 'dy-vite-vue-pdf'
+import pdf from 'lwj-vite-vue-pdf'
 
 export default {
   components: {
@@ -21,15 +21,11 @@ export default {
 }
 </script>
 ```
-## 其他用法参考vue-pdf插件
+
 ## Install
 ```bash
-yarn add --save dy-vite-vue-pdf
+yarn add --save lwj-vite-vue-pdf
 ```
-
-#### pdf.worker.js
-Copy [pdf.worker.min.js](https://cdn.jsdelivr.net/npm/pdfjs-dist@2.16.105/build/pdf.worker.min.js) to `public/pdsjs/pdf.worker.js`. Vite-Vue3Pdf will load pdf.worker.js from https://cdn.jsdelivr.net/npm/pdfjs-dist@2.16.105/build/pdf.worker.min.js
-
 
 ## Demo
 

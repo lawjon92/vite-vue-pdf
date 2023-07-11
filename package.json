@@ -17,15 +17,15 @@
   ],
   "license": "MIT",
   "main": "src/viteVuePdf.vue",
-  "name": "dy-vite-vue-pdf",
+  "name": "lwj-vite-vue-pdf",
   "peerDependencies": {},
   "scripts": {},
-  "version": "1.1.2",
+  "version": "1.0.0",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yumeiqiang"
+    "url": "git+https://github.com/lawjon92/vite-vue-pdf"
   },
-  "author": "dy",
-  "homepage": "https://github.com/yumeiqiang#readme"
+  "author": "lawjon92",
+  "homepage": "https://github.com/lawjon92/vite-vue-pdf"
 }
